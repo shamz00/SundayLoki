@@ -7,5 +7,6 @@ public interface Interface {
 	public abstract int iWheel();
 	
 	public abstract String iEngine();
+	public abstarct string iName();
 
 }
