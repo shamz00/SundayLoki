@@ -14,8 +14,6 @@ public class Inheritance extends MethodType{
 		obj.weeklyIncomeStatic();
 		
 		
-		obj.biweeklyIncomeStatic();
-		
 		
 		
 	}
