@@ -9,4 +9,5 @@ public class AccessModifier {
 	protected	  int ssn  = 1236548;			  // classes in the same package and subclass
 			
             String address = "Heritage Tower";    //default - 67 classes in same package can access
-	}
+int a = 5;	
+}
